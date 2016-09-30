@@ -10,7 +10,7 @@ Set up your function and save any results you need in variables.
 
 
 function nameLength(name){
-
+	console.log("hellow")
 	pname = name.length;
 
 	if(pname > 24){
